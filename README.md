@@ -101,6 +101,26 @@ storage.py (CSV Handling)
     ▼
 expense.csv
 
+<details>
+<summary>📌 Click to see implementation details</summary>
+
+### Architecture Explanation
+
+- **validators.py** → handles user input validation  
+- **services.py** → contains business logic  
+- **storage.py** → reads and writes CSV data  
+- **display.py** → formats terminal output  
+
+### Why Modular Design?
+
+This architecture improves:
+
+- maintainability
+- readability
+- scalability
+
+</details>
+
 
 🧠 Concepts Practiced
 
@@ -139,5 +159,7 @@ Web dashboard
 ⭐ Support
 
 If you found this project helpful, consider starring the repository ⭐
+
+
 
 
