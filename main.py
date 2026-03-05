@@ -3,7 +3,6 @@ import validators
 import storage
 import display
 
-# change code
 
 def main():
     # Load data ONCE and store in memory
