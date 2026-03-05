@@ -3,6 +3,7 @@ import validators
 import storage
 import display
 
+# change code
 
 def main():
     # Load data ONCE and store in memory
@@ -47,7 +48,6 @@ def main():
 
             if success:
                 storage.save_data(expenses)
-
 
         elif choice == '6':  # Exit
             storage.save_data(expenses)
