@@ -142,4 +142,4 @@ If you found this project helpful, consider starring the repository ⭐
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/YOUR_USERNAME/shruten-vala/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/shruten-vala/shruten-vala/blob/output/github-contribution-grid-snake.svg)
